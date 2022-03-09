@@ -4,6 +4,6 @@ description: Geospatial Data Science in Python.
 show_downloads: false
 repository: MUSA-550-Fall-2021/github-pages-single-page-starter
 google_analytics:
-remote_theme: pages-themes/minima
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
