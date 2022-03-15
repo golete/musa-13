@@ -2,7 +2,7 @@
 layout: default
 
 hv-loader:
-  hv-chart-1: ["charts/hvplot01.html", "500"]
+  hv-chart-1: ["charts/hvplot01.html", "500", "300"]
   hv-chart-2: ["charts/hvplot02.html", "500"]
   hv-chart-3: ["charts/hvplot03.html", "500"]
   hv-chart-4: ["charts/hvplot04.html", "500"]
