@@ -2,11 +2,11 @@
 layout: default
 
 hv-loader:
-  hv-chart-1: ["charts/phlEvictionsInt.html", "500"]
-  hv-chart-2: ["charts/phlEvictionsTimeline.html", "500"]
-  hv-chart-3: ["charts/phlEvictionsViolations.html", "500"]
-  hv-chart-4: ["charts/phlTop20Vs.html", "500"]
-  hv-chart-5: ["charts/phlViolationType.html", "500"]
+  hv-chart-1: ["charts/hvplot01.html", "500"]
+  hv-chart-2: ["charts/hvplot02.html", "500"]
+  hv-chart-3: ["charts/hvplot03.html", "500"]
+  hv-chart-4: ["charts/hvplot04.html", "500"]
+  hv-chart-5: ["charts/hvplot05.html", "500"]
 
 ---
 
