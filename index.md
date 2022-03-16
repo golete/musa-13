@@ -2,11 +2,10 @@
 layout: default
 
 hv-loader:
-  hv-chart-1: ["charts/hvplot01.html", "790"]
-  hv-chart-2: ["charts/hvplot02.html", "790"]
-  hv-chart-3: ["charts/hvplot03.html", "790"]
-  hv-chart-4: ["charts/hvplot04.html", "790"]
-  hv-chart-5: ["charts/hvplot05.html", "500"]
+  hv-chart-1: ["charts/hvplot01.html"]
+  hv-chart-2: ["charts/hvplot02.html"]
+  hv-chart-3: ["charts/hvplot03.html"]
+  hv-chart-4: ["charts/hvplot04.html"]
 
 ---
 
@@ -22,38 +21,24 @@ To better understand this issue it is necessary to understand its distribution b
 
 As well as comparing this to the spatial distribution of Building violations filed across the city:
 
+![Violations in Philly Map]({{ site.url }}{{ site.baseurl }}/assets/img/01.png)
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/01.png" alt="drawing" width="450"/>
 
-
-## HvPlot Example
-
-Lastly, the measles incidence produced using the HvPlot package:
+The building violations filed in the City of Philadelphia can be further broken down by the type of violations so that the spatial distibution of specific violations can be understood. It is noteworthy how certain violations, such as those related to plumbing, drainage or basic infrastructure of the house (like "Paint, windows, doors") are concentrated in the more disadvantaged neighborhoods in the the north east and south west of the city.
 
 <div id="hv-chart-2"></div>
 
-
-## HvPlot Example
-
-Lastly, the measles incidence produced using the HvPlot package:
+To make the spatial correlation between evictions and building violations filed even clearer, it is possible to compare side-by-side the evictions filed in 2018 with one of the most common violation types (and ever more relevant due to climate change): Rain protection.
 
 <div id="hv-chart-3"></div>
 
-
-## HvPlot Example
-
-Lastly, the measles incidence produced using the HvPlot package:
+As well as look at the spatial distribution of the 20 most common building violations issued in Philadelphia: 
 
 <div id="hv-chart-4"></div>
 
-
-## HvPlot Example
-
-Lastly, the measles incidence produced using the HvPlot package:
-
-<div id="hv-chart-5"></div>
+From these building violations types, it is apparent that "Annual cert file alarm", "License - RES General" and "EXT A-CLEAN WEEDS/PLANTS" do not have much relation with the spatial distribution of evictions in the city. They are, respectively, the failure to keep a certification for all fire alarm systems on site for a period of three years, operating a rental property before obtaining a housing inspection license, and failure to mantain weeds or plant growth in excess of 10 inches.
 
 
 ## Notes
 
-- See the [lecture 13A slides](https://musa-550-fall-2021.github.io/slideslecture-13A.html) for the code that produced these plots.
+- The code that produced these visualizations can be found [here](https://github.com/golete/musa-13).
