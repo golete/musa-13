@@ -21,7 +21,7 @@ To better understand this issue it is necessary to understand its distribution b
 
 As well as comparing this to the spatial distribution of Building violations filed across the city:
 
-![Violations in Philly Map]({{ site.url }}{{ site.baseurl }}/assets/img/01.png)
+![Violations in Philly Map]({{ site.url }}{{ site.baseurl }}/assets/img/02.png)
 
 
 The building violations filed in the City of Philadelphia can be further broken down by the type of violations so that the spatial distibution of specific violations can be understood. It is noteworthy how certain violations, such as those related to plumbing, drainage or basic infrastructure of the house (like "Paint, windows, doors") are concentrated in the more disadvantaged neighborhoods in the the north east and south west of the city.
