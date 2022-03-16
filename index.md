@@ -9,7 +9,7 @@ hv-loader:
 
 ---
 
-## Visualizing retaliatory evictions in Philadelphia
+## Geospatial Data Analysis in Python
 
 The goal of this project was to visualize the different aspects that describe the phenomenon of retaliatory evictions in the City of Philadelphia.
 
@@ -38,6 +38,5 @@ As well as look at the spatial distribution of the 20 most common building viola
 
 From these building violations types, it is apparent that "Annual cert file alarm", "License - RES General" and "EXT A-CLEAN WEEDS/PLANTS" do not have much relation with the spatial distribution of evictions in the city. They are, respectively, the failure to keep a certification for all fire alarm systems on site for a period of three years, operating a rental property before obtaining a housing inspection license, and failure to mantain weeds or plant growth in excess of 10 inches.
 
-
-
+### Notes
 - The code that produced these visualizations can be found [here](https://github.com/golete/musa-13).
