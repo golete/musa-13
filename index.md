@@ -2,10 +2,10 @@
 layout: default
 
 hv-loader:
-  hv-chart-1: ["charts/hvplot01.html", "450", "300"]
-  hv-chart-2: ["charts/hvplot02.html", "450", "300"]
-  hv-chart-3: ["charts/hvplot03.html", "450", "300"]
-  hv-chart-4: ["charts/hvplot04.html", "450", "300"]
+  hv-chart-1: ["charts/hvplot01.html", "500"]
+  hv-chart-2: ["charts/hvplot02.html", "500"]
+  hv-chart-3: ["charts/hvplot03.html", "500"]
+  hv-chart-4: ["charts/hvplot04.html", "500"]
   hv-chart-5: ["charts/hvplot05.html", "500"]
 
 ---
@@ -23,7 +23,7 @@ To better understand this issue it is necessary to understand its distribution b
 As well as comparing this to the spatial distribution of Building violations filed across the city (based on open data from the city).
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/01.png" alt="drawing" width="300"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/01.png" alt="drawing" width="450"/>
 
 
 ## HvPlot Example
