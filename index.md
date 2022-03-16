@@ -13,22 +13,22 @@ hv-loader:
 
 The goal of this project was to visualize the different aspects that describe the phenomenon of retaliatory evictions in the City of Philadelphia.
 
-Retaliatory evictions consists in the process where landlords, after failing to comply with some aspect of their rental agreement or the sanitary or basic building conditions in their rental properties, have a violation filed against them by their renters and in return theaten to evict or file to evict these. Historically, this has become common practice for some property owners in the City of Philadelphia as they usually are legally represented in court and their renters [are not](https://whyy.org/articles/philadelphia-renters-dealing-with-major-issues-forced-to-lie-down-and-take-it-or-risk-eviction/).
+Retaliatory evictions consist in the process where property owners, after failing to comply with some aspect of their rental agreement or the sanitary or basic building conditions in their rental properties, have a building violation filed against them by their renters and in return theaten to or evict them. Historically, this has become common practice for landlords throughout Philadelphia, especially in low-income neighborhoods, as they usually are legally represented in court and their renters [are not](https://whyy.org/articles/philadelphia-renters-dealing-with-major-issues-forced-to-lie-down-and-take-it-or-risk-eviction/).
 
-To better understand this issue it is necessary to understand its distribution both in time and throughout Philadelphia.
+To better understand this issue it is necessary to understand its distribution both in time and throughout the City of Philadelphia:
 
 <div id="hv-chart-1"></div>
 
-As well as comparing this to the spatial distribution of Building violations filed across the city:
+As well as comparing the evictions to the spatial distribution of Building violations filed across the city:
 
 ![Violations in Philly Map]({{ site.url }}{{ site.baseurl }}/assets/img/02.png)
 
 
-The building violations filed in the City of Philadelphia can be further broken down by the type of violations so that the spatial distibution of specific violations can be understood. It is noteworthy how certain violations, such as those related to plumbing, drainage or basic infrastructure of the house (like "Paint, windows, doors") are concentrated in the more disadvantaged neighborhoods in the the north east and south west of the city.
+Building violations can be further broken down by the type of violations that were filed, in order to understand the spatial distibution of specific violations and how are renters in different neighborhoods affected. It is noteworthy how certain violations, such as those related to plumbing, drainage or basic infrastructure of the house (like "Paint, windows, doors") are concentrated in the more disadvantaged neighborhoods in the the north east and south west of the city.
 
 <div id="hv-chart-2"></div>
 
-To make the spatial correlation between evictions and building violations filed even clearer, it is possible to compare side-by-side the evictions filed in 2018 with one of the most common violation types (and ever more relevant due to climate change): Rain protection.
+To make the correlation between the spatial processes of evictions and building violations even clearer, it is possible to compare side-by-side the evictions filed in 2018 with one of the most common violation types (and ever more relevant due to climate change): Rain protection.
 
 <div id="hv-chart-3"></div>
 
